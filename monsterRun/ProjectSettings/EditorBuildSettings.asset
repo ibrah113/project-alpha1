@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Ninja_Run_Beta_Submission.unity
+    guid: 5ad9b40a39c39bf4a9963e6a4aee8874
   m_configObjects: {}
